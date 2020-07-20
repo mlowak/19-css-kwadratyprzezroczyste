@@ -1,5 +1,29 @@
-.square100 {
-    background: rgba(black, 1);
-    width: 50px;
-    height: 50px;
+.bgbox {
+    background-color: #f5f5dd;
+    height: 1100px;
+    width: 500px;
+}
+.kwadrat-1 {
+    height: 250px;
+    width: 250px;
+    background: rgba(0, 0, 0, 1);
+    display: inline-block;
+}
+.kwadrat-2 {
+    height: 250px;
+    width: 250px;
+    background: rgba(0, 0, 0, 0.75);
+    display: inline-block;
+}
+.kwadrat-3 {
+    height: 250px;
+    width: 250px;
+    background: rgba(0, 0, 0, 0.50);
+    display: inline-block;
+}
+.kwadrat-4 {
+    height: 250px;
+    width: 250px;
+    background: rgba(0, 0, 0, 0.25);
+    display: inline-block;
 }
