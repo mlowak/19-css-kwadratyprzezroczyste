@@ -1,0 +1,19 @@
+.background {
+    background-color: #f5f5dd;
+}
+
+#kwadrat100 {
+    background: rgba(black, 1);
+}
+
+#kwadrat75 {
+    background: rgba{black, 0.75};
+}
+
+#kwadrat50 {
+    background: rgba{black, 0.50};
+}
+
+#kwadrat25 {
+    background: rgba(black, 0.25);
+}
